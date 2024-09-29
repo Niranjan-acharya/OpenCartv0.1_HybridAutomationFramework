@@ -1,0 +1,26 @@
+12:59:20.917 [main] INFO  testCases.TC002_LoginTest - =====CHROME=====
+13:00:07.458 [main] INFO  testCases.TC002_LoginTest - =====CHROME=====
+13:01:30.574 [main] INFO  testCases.TC002_LoginTest - =====CHROME=====
+13:01:37.264 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest *******
+13:02:00.326 [main] INFO  testCases.TC002_LoginTest - ****** Catch *******
+13:02:38.177 [main] INFO  testCases.TC002_LoginTest - =====CHROME=====
+13:02:53.366 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest *******
+13:02:55.407 [main] INFO  testCases.TC002_LoginTest - ****** HomePage *******
+13:02:58.594 [main] INFO  testCases.TC002_LoginTest - ****** LoginPage *******
+13:02:58.814 [main] INFO  testCases.TC002_LoginTest - ****** MyAccountPage *******
+13:02:58.820 [main] INFO  testCases.TC002_LoginTest - ****** Assert *******
+13:02:58.820 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest *******
+13:43:33.928 [main] INFO  testCases.TC002_LoginTest - =====CHROME=====
+13:43:40.831 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest *******
+13:43:43.095 [main] INFO  testCases.TC002_LoginTest - ****** HomePage *******
+13:43:45.077 [main] INFO  testCases.TC002_LoginTest - ****** LoginPage *******
+13:43:45.199 [main] INFO  testCases.TC002_LoginTest - ****** MyAccountPage *******
+13:43:45.212 [main] INFO  testCases.TC002_LoginTest - ****** Assert *******
+13:43:45.212 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest *******
+13:54:46.859 [main] INFO  testCases.TC002_LoginTest - =====CHROME=====
+13:54:50.454 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest *******
+13:54:52.449 [main] INFO  testCases.TC002_LoginTest - ****** HomePage *******
+13:54:54.174 [main] INFO  testCases.TC002_LoginTest - ****** LoginPage *******
+13:54:54.251 [main] INFO  testCases.TC002_LoginTest - ****** MyAccountPage *******
+13:54:54.256 [main] INFO  testCases.TC002_LoginTest - ****** Assert *******
+13:54:54.256 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest *******
